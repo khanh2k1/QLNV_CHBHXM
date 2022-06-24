@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/DSbanggia.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/DanhSachDichVu.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/DanhSachLoaiXe.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/Navbar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/ThemLoaiXe.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/ThongTinLoaiXe.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/ThongTinNhanVien.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/ThongTinNhanVien_2.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/page-content_DSNhanvien.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/test2.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin/test_DSNhanVien.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Login_phanquyen.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/DSluong.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/DSnangluc.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/FormEditSoNgayThucLam.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/Login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/Navbar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/ThemCongViec.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/ThongTinBangGia.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/ThongTinTaiKhoan.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien/DSbanggia.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien/DSluong.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien/Login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien/Topnav.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/nhanvien" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/templates/login_phanquyen/index.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/templates/login_phanquyen" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
